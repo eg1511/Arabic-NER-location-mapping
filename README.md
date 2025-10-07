@@ -34,7 +34,18 @@ https://github.com/CAMeL-Lab/camel_tools <br>
 <br>
 <br>
 
-### PART II - TRANSLATION WITH DeepML
+### PART II - TRANSLATION WITH Deep Translator
+
+Results of the location NER were identified and groupped in a tupple and to perform quick QA the results were translated in English using Deep Translator libraries. <br>
+Deep Translator was chosen because the library offers a large selection of services to translate (GoogleTranslate, YandexTranslate, etc...). For ease of speed, solely Google Translate was chosen but others could have been. A timer of 2 seconds was added to avoid a rejection of multiple requests. 
+
+More information on Deep Translator can be found on Pypi.org and the documentation: <br>
+Deep Translator - https://pypi.org/project/deep-translator/  <br>
+Documentation: https://deep-translator.readthedocs.io/ <br>
+
+
+<br>
+<br>
 
 ### PART III - CROSS-REFERNCE WITH GTD DB
 
