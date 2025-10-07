@@ -1,6 +1,7 @@
 # Mapping location-related Named Entities in Arabic
 A project use CAMeL Named Entity Recognition tool in Arabic to map and plot the evolution of frequency of mentioned locations
 
+
 ### INTRO & REQUIREMENTS
 
 This project uses a number of Python libraries to:
@@ -10,6 +11,7 @@ This project uses a number of Python libraries to:
 4) Identify the geo-location of the named location - using a combination of Wikipedia geosearch and Nominatim
 5) Map the results on the globe - using Folium
 6) Represent the historical trends through charts - using Matplotlib
+
 
 ### STEPS & LOGIC FLOW
 A representation of the logic and steps is provided in this illustration: 
