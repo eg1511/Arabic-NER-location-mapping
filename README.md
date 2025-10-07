@@ -61,5 +61,5 @@ Global View of local NER:
 
 
 #### COVERAGE VIEW AT LOCAL/COUNTRY LEVEL
-<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/0d219500-16ad-404d-940b-30e01f9d1057" />
+<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/1e7aae13-7f51-4cc7-9192-6d2e4a96e6e0" />
 
