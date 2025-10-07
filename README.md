@@ -43,7 +43,7 @@ https://github.com/CAMeL-Lab/camel_tools <br>
 
 #### VIEW AT COUNTRY LEVEL
 Illustration of results at Country level
-<img width="1018" height="612" alt="Country" src="https://github.com/user-attachments/assets/6ca8e94b-2561-4284-9e16-5a3dbab1f1bf" />
+<img width="1018" height="612" alt="Country" src="https://github.com/user-attachments/assets/6ca8e94b-2561-4284-9e16-5a3dbab1f1bf" /> <br>
 
 #### VIEW AT LOCAL REGION LEVEL
 Illustration of results at Regional/State level:
