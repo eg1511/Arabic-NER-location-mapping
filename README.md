@@ -47,7 +47,7 @@ Documentation: https://deep-translator.readthedocs.io/ <br>
 <br>
 <br>
 
-### PART III - CROSS-REFERNCE WITH GTD DB
+### PART III - CROSS-REFERNCE WITH UNIVERSITY OF MARYLAND GTD DB
 
 To garantee robust results between the location identified (often a small town or village) and the relevant corresponding region or country, we used a specialized database developed by the University of Maryland. The GTD Database keeps track of all incidents and classifies the location to the region and the country. We applied the GTD relationship to our data. 
 
@@ -71,6 +71,13 @@ Nominatim Documentation: https://nominatim.org/release-docs/latest/library/Getti
 <br>
 
 ### PART V - MAP THE RESULTS
+
+Once we had the NER location, the geolocation and the occurances, we simply plot all this data into a geographical buuble chart representation using the Folium library. 
+
+For information on Folium: 
+Nominatim Documentation: https://folium.readthedocs.io/en/latest/
+
+Here are a couple examples of the results: 
 
 #### VIEW AT COUNTRY LEVEL
 Illustration of results at Country level
