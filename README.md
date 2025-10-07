@@ -10,7 +10,7 @@ This project uses a number of Python libraries to:
 3) Cross-reference the location with specialized list of common locations from the GTD project
 4) Identify the geo-location of the named location - using a combination of Wikipedia geosearch and Nominatim
 5) Map the results on the globe - using Folium
-6) Represent the historical trends through charts - using Matplotlib
+6) Represent the historical trends through charts - using Matplotlib & Seaborn
 
 
 ### STEPS & LOGIC FLOW
