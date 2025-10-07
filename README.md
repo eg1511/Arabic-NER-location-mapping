@@ -82,7 +82,8 @@ Nominatim Documentation: https://folium.readthedocs.io/en/latest/
 
 <br>
 
-Here are a couple examples of the results: 
+### THE RESULTS
+Here are a couple examples of the results obtained: 
 
 #### VIEW AT COUNTRY LEVEL
 Illustration of results at Country level
