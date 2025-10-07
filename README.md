@@ -49,8 +49,26 @@ Documentation: https://deep-translator.readthedocs.io/ <br>
 
 ### PART III - CROSS-REFERNCE WITH GTD DB
 
+To garantee robust results between the location identified (often a small town or village) and the relevant corresponding region or country, we used a specialized database developed by the University of Maryland. The GTD Database keeps track of all incidents and classifies the location to the region and the country. We applied the GTD relationship to our data. 
+
+More information on University of Maryland GTD can be found here: <br>
+DHS University of Maryland - https://www.start.umd.edu/data-tools/GTD <br>
+
+<br>
+<br>
 
 ### PART IV - GEO-LOCATE COMBINED LOCATIONS WITH WIKIPEDIA & NOMINATIM
+
+To obtain the geolocation and map of location references from the articles, we resorted to simple Wikipedia GeoSearch through the WikiMedia API as a first search step and then in case of failure Nominatim as a search tool. 
+Google Search could also be used in a future release. <br> 
+To perform the geolocation, we would first search for the country, then the region, then the the location + the region + the country, then location + the country and finally as last resort just the location. <br> 
+
+More information on Wikipedia GeoSearch and Nominatim can be found here: <br>
+Wikipedia GeoSearch - https://www.mediawiki.org/wiki/Extension:GeoData#API  <br>
+Nominatim Documentation: https://nominatim.org/release-docs/latest/library/Getting-Started/ <br>
+
+<br>
+<br>
 
 ### PART V - MAP THE RESULTS
 
