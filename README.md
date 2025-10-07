@@ -4,6 +4,7 @@ A project use CAMeL Named Entity Recognition tool in Arabic to map and plot the 
 <br>
 ### INTRO & REQUIREMENTS
 <br>
+
 This project uses a number of Python libraries to:
 1) Identify Named Location in Arabic text - using NYUAD's CAMeL Lab - MSA NER Model
 2) Translate the location found into English - using DeepML 
