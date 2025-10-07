@@ -31,6 +31,8 @@ More information on CAMeL model can be found on Hugging Face and on GitHub: <br>
 https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-msa-ner <br>
 https://github.com/CAMeL-Lab/camel_tools <br>
 
+<br>
+<br>
 
 ### PART II - TRANSLATION WITH DeepML
 
