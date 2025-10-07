@@ -102,13 +102,19 @@ Global View of local NER:
 
 ### PART VI - LOCATION TRENDS
 
+From the data obtain, we can also create insights by analyzing historical trends <br>
+<br>
 #### EVOLUTION OF REGIONS IN EDITORIAL FIRST PAGE
 
+We can for instance look at the evolution of the Front page Editorial and changes in coverage of certain regions and countries over time. <br> 
+
 #### COVERAGE VIEW AT REGIONAL LEVEL
-<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/f300b52e-ab39-46f9-bc7c-5c1e9d4ff1b5" />
-
-
+<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/f300b52e-ab39-46f9-bc7c-5c1e9d4ff1b5" /> <br>
+We can clearly see that as influence in Syria tamed, Editorial focus was put on to South Asian and Africa activities and operations. <br>
+<br>
 
 #### COVERAGE VIEW AT LOCAL/COUNTRY LEVEL
 <img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/1e7aae13-7f51-4cc7-9192-6d2e4a96e6e0" />
-
+A more gradunar view allows us observe that few countries are propelling the trends: Afghanistan coverage explain the trends in South Asia overall, Egypt for North Africa. <br>
+We can see more specifically that coverage of Nigeria, Sahel and the Lake Chad Basin are increasingly gaining focus. <br> 
+<br>
