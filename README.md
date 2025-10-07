@@ -56,7 +56,8 @@ Global View of local NER:
 #### EVOLUTION OF REGIONS IN EDITORIAL FIRST PAGE
 
 #### COVERAGE VIEW AT REGIONAL LEVEL
-<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/71806a30-9adc-46ab-beb8-5a4eac39eedc" />
+<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/f300b52e-ab39-46f9-bc7c-5c1e9d4ff1b5" />
+
 
 
 #### COVERAGE VIEW AT LOCAL/COUNTRY LEVEL
