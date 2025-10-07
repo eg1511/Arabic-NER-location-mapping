@@ -14,13 +14,7 @@ This project uses a number of Python libraries to:
 6) Represent the historical trends through charts - using Matplotlib & Seaborn
 <br>
 
-### STEPS & LOGIC FLOW
-A representation of the logic and steps is provided in this illustration: 
-<br>
 
-
-<br>
-<br>
 
 ### PART I - NAMED LOCATION USING CAMeLBERT
 
@@ -117,4 +111,12 @@ We can clearly see that as influence in Syria tamed, Editorial focus was put on 
 <img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/1e7aae13-7f51-4cc7-9192-6d2e4a96e6e0" />
 A more gradunar view allows us observe that few countries are propelling the trends: Afghanistan coverage explain the trends in South Asia overall, Egypt for North Africa. <br>
 We can see more specifically that coverage of Nigeria, Sahel and the Lake Chad Basin are increasingly gaining focus. <br> 
+<br>
+
+### STEPS & LOGIC FLOW
+A representation of the logic and steps is provided in this illustration: 
+<br>
+
+
+<br>
 <br>
