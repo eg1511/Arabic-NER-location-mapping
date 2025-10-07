@@ -2,6 +2,16 @@
 A project use CAMeL Named Entity Recognition tool in Arabic to map and plot the evolution of frequency of mentioned locations
 <br>
 <br>
+
+### ILLUSTRATION - MOVING FROM TEXT TO INSIGHTS
+
+The purpose of this project is to transform text in a foreign language to data through NLP and Machine Translation and to insights through Visualization:
+
+<img width="1864" height="1011" alt="image" src="https://github.com/user-attachments/assets/d77059e7-1005-42a7-b64a-a16335d72a72" />
+
+<br>
+<br>
+
 ### INTRO & REQUIREMENTS
 <br>
 
@@ -12,15 +22,6 @@ This project uses a number of Python libraries to:
 4) Identify the geo-location of the named location - using a combination of Wikipedia geosearch and Nominatim
 5) Map the results on the globe - using Folium
 6) Represent the historical trends through charts - using Matplotlib & Seaborn
-<br>
-
-### ILLUSTRATION - MOVING FROM TEXT TO INSIGHTS
-
-The purpose of this project is to transform text in a foreign language to data through NLP and Machine Translation and to insights through Visualization:
-
-<img width="1864" height="1011" alt="image" src="https://github.com/user-attachments/assets/d77059e7-1005-42a7-b64a-a16335d72a72" />
-
-<br>
 <br>
 
 
