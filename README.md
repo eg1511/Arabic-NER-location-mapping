@@ -77,23 +77,28 @@ Once we had the NER location, the geolocation and the occurances, we simply plot
 For information on Folium: 
 Nominatim Documentation: https://folium.readthedocs.io/en/latest/
 
+<br>
+
 Here are a couple examples of the results: 
 
 #### VIEW AT COUNTRY LEVEL
 Illustration of results at Country level
 <img width="1018" height="612" alt="Country" src="https://github.com/user-attachments/assets/6ca8e94b-2561-4284-9e16-5a3dbab1f1bf" /> <br>
-
+<br>
+<br>
 #### VIEW AT LOCAL REGION LEVEL
 Illustration of results at Regional/State level:
 <img width="1018" height="612" alt="Region" src="https://github.com/user-attachments/assets/8b3a20b7-77c4-4c35-ae81-7dde880fd7e1" />
-
-
+<br>
+<br>
 #### VIEW AT LOCAL LEVEL
 Illustration of results at Local/County level:
 <img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/5152deb2-87e8-4bf3-853b-bbf143019ddb" />
+<br>
 Global View of local NER:
 <img width="1018" height="612" alt="County" src="https://github.com/user-attachments/assets/e836ad54-a7e8-4dc6-b8fd-345fe1315dfd" />
-
+<br>
+<br>
 
 ### PART VI - LOCATION TRENDS
 
