@@ -59,4 +59,6 @@ Global View of local NER:
 <img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/71806a30-9adc-46ab-beb8-5a4eac39eedc" />
 
 
-#### VIEW AT LOCAL LEVEL
+#### VIEW AT LOCAL/COUNTRY LEVEL
+<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/0d219500-16ad-404d-940b-30e01f9d1057" />
+
