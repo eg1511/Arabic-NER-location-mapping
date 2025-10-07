@@ -9,4 +9,4 @@ This project uses a number of Python libraries to:
 5) Map the results on the globe - using Folium
 6) Represent the historical trends through charts - using Matplolib
 
-   
+A representation of the logic and steps is provided in this illustration: 
