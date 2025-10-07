@@ -39,10 +39,12 @@ Illustration of results at Country level
 
 #### VIEW AT LOCAL REGION LEVEL
 Illustration of results at Regional/State level:
+<img width="1018" height="612" alt="Region" src="https://github.com/user-attachments/assets/8b3a20b7-77c4-4c35-ae81-7dde880fd7e1" />
 
 
 #### VIEW AT LOCAL LOCAL LEVEL
 Illustration of results at Local/County level:
+<img width="1018" height="612" alt="County" src="https://github.com/user-attachments/assets/e836ad54-a7e8-4dc6-b8fd-345fe1315dfd" />
 
 
 ### PART VI - MAP TRENDS
