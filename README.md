@@ -55,4 +55,7 @@ Global View of local NER:
 
 #### EVOLUTION OF REGIONS IN EDITORIAL FIRST PAGE
 
+#### VIEW AT REGIONAL LEVEL
+<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/6b484729-d4a8-4703-a1ef-818aea1f8b58" />
+
 #### VIEW AT LOCAL LEVEL
