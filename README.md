@@ -27,9 +27,9 @@ A representation of the logic and steps is provided in this illustration:
 We used NYUAD's CAMeL model to screen through all the arabic text in all the different articles on the front page of the magazine. Specified the model to identify only Locations at this stage - anything identified as an entity of the type: 'I-LOC'. The entity identification model is based of Arabert foundational model developed by Google. 
 Accuracy of the model was very suprising with strong results in identifying known places where incidents happened. There is some small errors at time but they are quite marginal in the order of only single occurances. 
 
-More information on CAMeL model can be found on Hugging Face and on GitHub: 
-https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-msa-ner
-https://github.com/CAMeL-Lab/camel_tools
+More information on CAMeL model can be found on Hugging Face and on GitHub: <br>
+https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-msa-ner <br>
+https://github.com/CAMeL-Lab/camel_tools <br>
 
 
 ### PART II - TRANSLATION WITH DeepML
