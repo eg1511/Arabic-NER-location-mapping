@@ -49,4 +49,8 @@ Global View of local NER:
 <img width="1018" height="612" alt="County" src="https://github.com/user-attachments/assets/e836ad54-a7e8-4dc6-b8fd-345fe1315dfd" />
 
 
-### PART VI - MAP TRENDS
+### PART VI - LOCATION TRENDS
+
+#### EVOLUTION OF REGIONS IN EDITORIAL FIRST PAGE
+
+#### VIEW AT LOCAL LEVEL
