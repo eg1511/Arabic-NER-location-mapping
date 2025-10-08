@@ -57,7 +57,7 @@ We can also for instance look at the evolution of the Front page Editorial and c
 
 ##### COVERAGE VIEW AT REGIONAL LEVEL
 <img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/f300b52e-ab39-46f9-bc7c-5c1e9d4ff1b5" /> <br>
-We can clearly see that as influence in Syria tamed, Editorial focus was put on to South Asian and Africa activities and operations. <br>
+We can clearly see that as the influence of the group in Syria tamed, the group's editorial focus was put on to South Asian and Africa activities and operations. <br>
 <br>
 
 ##### COVERAGE VIEW AT LOCAL/COUNTRY LEVEL
