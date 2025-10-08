@@ -12,7 +12,7 @@ The purpose of this project is to transform text in a foreign language to data t
 
 <br>
 <br>
-______________________________________________________________________________________________________________
+-----
 
 ### INTRO & REQUIREMENTS
 
@@ -25,7 +25,7 @@ This project uses a number of Python libraries to:
 6) Represent the historical trends through charts - using Matplotlib & Seaborn
 <br>
 <br>
-______________________________________________________________________________________________________________
+-----
 
 ### SNAPSHOT OF THE RESULTS
 Here are a couple examples of the results obtained: 
@@ -65,7 +65,8 @@ A more gradunar view allows us observe that few countries are propelling the tre
 We can see more specifically that coverage of Nigeria, Sahel and the Lake Chad Basin are increasingly gaining focus. <br> 
 <br>
 
-______________________________________________________________________________________________________________
+-----
+
 ### LIBRARIES & IMPLEMENTAION STEPS
 
 #### PART I - NAMED LOCATION USING CAMeLBERT
@@ -132,7 +133,8 @@ From the data obtained, we can also create insights by analyzing historical tren
 <br>
 <br>
 
-______________________________________________________________________________________________________________
+-----
+
 ### LOGICAL FLOW
 A representation of the logic and steps is provided in this illustration: 
 <br>
