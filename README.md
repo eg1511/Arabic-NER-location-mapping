@@ -14,7 +14,6 @@ The purpose of this project is to transform text in a foreign language to data t
 <br>
 
 ### INTRO & REQUIREMENTS
-<br>
 
 This project uses a number of Python libraries to:
 1) Identify Named Location in Arabic text - using NYUAD's CAMeL Lab - MSA NER Model
