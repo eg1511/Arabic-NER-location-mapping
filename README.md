@@ -3,7 +3,7 @@ A project use CAMeL Named Entity Recognition tool in Arabic to map and plot the 
 <br>
 <br>
 
-### ILLUSTRATION - MOVING FROM TEXT TO INSIGHTS
+### ILLUSTRATION - MOVING FROM TEXT TO VISUALS & INSIGHTS
 
 The purpose of this project is to transform text in a foreign language to data through NLP and Machine Translation and to insights through Visualization:
 
