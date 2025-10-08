@@ -12,6 +12,7 @@ The purpose of this project is to transform text in a foreign language to data t
 
 <br>
 <br>
+______________________________________________________________________________________________________________
 
 ### INTRO & REQUIREMENTS
 
@@ -24,8 +25,9 @@ This project uses a number of Python libraries to:
 6) Represent the historical trends through charts - using Matplotlib & Seaborn
 <br>
 <br>
+______________________________________________________________________________________________________________
 
-### <u>SNAPSHOT OF THE RESULTS</u>
+### SNAPSHOT OF THE RESULTS
 Here are a couple examples of the results obtained: 
 
 #### GEOLOCATION RESULTS OF NAMED LOCATION
@@ -36,11 +38,9 @@ We can identify and represent on the map places mentioned in the articles:
 Illustration of results at Country level
 <img width="1018" height="612" alt="Country" src="https://github.com/user-attachments/assets/6ca8e94b-2561-4284-9e16-5a3dbab1f1bf" /> <br>
 <br>
-<br>
 ##### VIEW AT REGIONAL LEVEL
 Illustration of results at Regional/State level:
 <img width="1018" height="612" alt="Region" src="https://github.com/user-attachments/assets/8b3a20b7-77c4-4c35-ae81-7dde880fd7e1" />
-<br>
 <br>
 ##### VIEW AT LOCAL COUNTY OR CITY LEVEL
 Global View of local NER:
@@ -48,7 +48,6 @@ Global View of local NER:
 <br>
 Close-up of results at Local, County or City level:
 <img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/5152deb2-87e8-4bf3-853b-bbf143019ddb" />
-<br>
 <br>
 
 #### HISTORICAL EVOLUTION OF REGIONS IN EDITORIAL FIRST PAGE
@@ -66,8 +65,10 @@ A more gradunar view allows us observe that few countries are propelling the tre
 We can see more specifically that coverage of Nigeria, Sahel and the Lake Chad Basin are increasingly gaining focus. <br> 
 <br>
 
+______________________________________________________________________________________________________________
+### LIBRARIES & IMPLEMENTAION STEPS
 
-### PART I - NAMED LOCATION USING CAMeLBERT
+#### PART I - NAMED LOCATION USING CAMeLBERT
 
 We used NYUAD's CAMeL model to screen through all the arabic text in all the different articles on the front page of the magazine. Specified the model to identify only Locations at this stage - anything identified as an entity of the type: 'I-LOC'. The entity identification model is based of Arabert foundational model developed by Google. 
 Accuracy of the model was very suprising with strong results in identifying known places where incidents happened. There is some small errors at time but they are quite marginal in the order of only single occurances. 
@@ -79,7 +80,7 @@ https://github.com/CAMeL-Lab/camel_tools <br>
 <br>
 <br>
 
-### PART II - TRANSLATION WITH Deep Translator
+#### PART II - TRANSLATION WITH Deep Translator
 
 Results of the location NER were identified and groupped in a tupple and to perform quick QA the results were translated in English using Deep Translator libraries. <br>
 Deep Translator was chosen because the library offers a large selection of services to translate (GoogleTranslate, YandexTranslate, etc...). For ease of speed, solely Google Translate was chosen but others could have been. A timer of 2 seconds was added to avoid a rejection of multiple requests. 
@@ -92,7 +93,7 @@ Documentation: https://deep-translator.readthedocs.io/ <br>
 <br>
 <br>
 
-### PART III - CROSS-REFERNCE WITH UNIVERSITY OF MARYLAND GTD DB
+#### PART III - CROSS-REFERNCE WITH UNIVERSITY OF MARYLAND GTD DB
 
 To garantee robust results between the location identified (often a small town or village) and the relevant corresponding region or country, we used a specialized database developed by the University of Maryland. The GTD Database keeps track of all incidents and classifies the location to the region and the country. We applied the GTD relationship to our data. 
 
@@ -102,7 +103,7 @@ DHS University of Maryland - https://www.start.umd.edu/data-tools/GTD <br>
 <br>
 <br>
 
-### PART IV - GEO-LOCATE COMBINED LOCATIONS WITH WIKIPEDIA & NOMINATIM
+#### PART IV - GEO-LOCATE COMBINED LOCATIONS WITH WIKIPEDIA & NOMINATIM
 
 To obtain the geolocation and map of location references from the articles, we resorted to simple Wikipedia GeoSearch through the WikiMedia API as a first search step and then in case of failure Nominatim as a search tool. 
 Google Search could also be used in a future release. <br> 
@@ -115,7 +116,7 @@ Nominatim Documentation: https://nominatim.org/release-docs/latest/library/Getti
 <br>
 <br>
 
-### PART V - MAP THE RESULTS
+#### PART V - MAP THE RESULTS
 
 Once we had the NER location, the geolocation and the occurances, we simply plot all this data into a geographical buuble chart representation using the Folium library. 
 
@@ -125,13 +126,14 @@ Nominatim Documentation: https://folium.readthedocs.io/en/latest/
 <br>
 
 
-### PART VI - LOCATION TRENDS
+#### PART VI - LOCATION TRENDS
 
 From the data obtained, we can also create insights by analyzing historical trends coverting the data to tables and charts<br>
 <br>
 <br>
 
-### STEPS & LOGIC FLOW
+______________________________________________________________________________________________________________
+### LOGICAL FLOW
 A representation of the logic and steps is provided in this illustration: 
 <br>
 
