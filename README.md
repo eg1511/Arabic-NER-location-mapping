@@ -24,9 +24,9 @@ This project uses a number of Python libraries to:
 5) Map the results on the globe - using Folium
 6) Represent the historical trends through charts - using Matplotlib & Seaborn
 <br>
-<br
+<br>
 
-### SNAPSHOT OF THE RESULTS
+### <u>SNAPSHOT OF THE RESULTS</u>
 Here are a couple examples of the results obtained: 
 
 #### GEOLOCATION RESULTS OF NAMED LOCATION
