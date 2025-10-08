@@ -1,5 +1,5 @@
 # Mapping & Visualizing location-related Named Entities in Arabic
-A project use CAMeL Named Entity Recognition tool in Arabic to map and plot the evolution of frequency of mentioned locations
+A project using CAMeL Named Entity Recognition tool in Arabic to map and plot the evolution of frequency of mentioned locations
 <br>
 <br>
 
