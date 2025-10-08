@@ -26,7 +26,7 @@ This project uses a number of Python libraries to:
 <br>
 <br
 
-### <u>SNAPSHOT OF THE RESULTS</u>
+### SNAPSHOT OF THE RESULTS
 Here are a couple examples of the results obtained: 
 
 #### GEOLOCATION RESULTS OF NAMED LOCATION
