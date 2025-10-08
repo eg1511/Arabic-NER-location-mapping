@@ -91,12 +91,12 @@ Illustration of results at Country level
 <img width="1018" height="612" alt="Country" src="https://github.com/user-attachments/assets/6ca8e94b-2561-4284-9e16-5a3dbab1f1bf" /> <br>
 <br>
 <br>
-#### VIEW AT LOCAL REGION LEVEL
+#### VIEW AT REGIONAL LEVEL
 Illustration of results at Regional/State level:
 <img width="1018" height="612" alt="Region" src="https://github.com/user-attachments/assets/8b3a20b7-77c4-4c35-ae81-7dde880fd7e1" />
 <br>
 <br>
-#### VIEW AT LOCAL LEVEL
+#### VIEW AT LOCAL COUNTY OR CITY LEVEL
 Illustration of results at Local/County level:
 <img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/5152deb2-87e8-4bf3-853b-bbf143019ddb" />
 <br>
