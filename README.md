@@ -12,7 +12,7 @@ The purpose of this project is to transform text in a foreign language to data t
 
 <br>
 <br>
------
+
 
 ### INTRO & REQUIREMENTS
 
@@ -25,7 +25,7 @@ This project uses a number of Python libraries to:
 6) Represent the historical trends through charts - using Matplotlib & Seaborn
 <br>
 <br>
------
+
 
 ### SNAPSHOT OF THE RESULTS
 Here are a couple examples of the results obtained: 
