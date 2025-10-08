@@ -24,6 +24,48 @@ This project uses a number of Python libraries to:
 5) Map the results on the globe - using Folium
 6) Represent the historical trends through charts - using Matplotlib & Seaborn
 <br>
+<br
+
+### <u>SNAPSHOT OF THE RESULTS</u>
+Here are a couple examples of the results obtained: 
+
+#### GEOLOCATION RESULTS OF NAMED LOCATION
+
+We can identify and represent on the map places mentioned in the articles:  
+
+##### VIEW AT COUNTRY LEVEL
+Illustration of results at Country level
+<img width="1018" height="612" alt="Country" src="https://github.com/user-attachments/assets/6ca8e94b-2561-4284-9e16-5a3dbab1f1bf" /> <br>
+<br>
+<br>
+##### VIEW AT REGIONAL LEVEL
+Illustration of results at Regional/State level:
+<img width="1018" height="612" alt="Region" src="https://github.com/user-attachments/assets/8b3a20b7-77c4-4c35-ae81-7dde880fd7e1" />
+<br>
+<br>
+##### VIEW AT LOCAL COUNTY OR CITY LEVEL
+Illustration of results at Local/County level:
+<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/5152deb2-87e8-4bf3-853b-bbf143019ddb" />
+<br>
+Global View of local NER:
+<img width="1018" height="612" alt="County" src="https://github.com/user-attachments/assets/e836ad54-a7e8-4dc6-b8fd-345fe1315dfd" />
+<br>
+<br>
+
+#### HISTORICAL EVOLUTION OF REGIONS IN EDITORIAL FIRST PAGE
+
+We can also for instance look at the evolution of the Front page Editorial and changes in coverage of certain regions and countries over time. <br> 
+
+##### COVERAGE VIEW AT REGIONAL LEVEL
+<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/f300b52e-ab39-46f9-bc7c-5c1e9d4ff1b5" /> <br>
+We can clearly see that as influence in Syria tamed, Editorial focus was put on to South Asian and Africa activities and operations. <br>
+<br>
+
+##### COVERAGE VIEW AT LOCAL/COUNTRY LEVEL
+<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/1e7aae13-7f51-4cc7-9192-6d2e4a96e6e0" />
+A more gradunar view allows us observe that few countries are propelling the trends: Afghanistan coverage explain the trends in South Asia overall, Egypt for North Africa. <br>
+We can see more specifically that coverage of Nigeria, Sahel and the Lake Chad Basin are increasingly gaining focus. <br> 
+<br>
 
 
 ### PART I - NAMED LOCATION USING CAMeLBERT
@@ -80,48 +122,14 @@ Once we had the NER location, the geolocation and the occurances, we simply plot
 
 For information on Folium: 
 Nominatim Documentation: https://folium.readthedocs.io/en/latest/
+<br>
+<br>
 
-<br>
-
-### THE RESULTS
-Here are a couple examples of the results obtained: 
-
-#### VIEW AT COUNTRY LEVEL
-Illustration of results at Country level
-<img width="1018" height="612" alt="Country" src="https://github.com/user-attachments/assets/6ca8e94b-2561-4284-9e16-5a3dbab1f1bf" /> <br>
-<br>
-<br>
-#### VIEW AT REGIONAL LEVEL
-Illustration of results at Regional/State level:
-<img width="1018" height="612" alt="Region" src="https://github.com/user-attachments/assets/8b3a20b7-77c4-4c35-ae81-7dde880fd7e1" />
-<br>
-<br>
-#### VIEW AT LOCAL COUNTY OR CITY LEVEL
-Illustration of results at Local/County level:
-<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/5152deb2-87e8-4bf3-853b-bbf143019ddb" />
-<br>
-Global View of local NER:
-<img width="1018" height="612" alt="County" src="https://github.com/user-attachments/assets/e836ad54-a7e8-4dc6-b8fd-345fe1315dfd" />
-<br>
-<br>
 
 ### PART VI - LOCATION TRENDS
 
-From the data obtain, we can also create insights by analyzing historical trends <br>
+From the data obtained, we can also create insights by analyzing historical trends coverting the data to tables and charts<br>
 <br>
-#### EVOLUTION OF REGIONS IN EDITORIAL FIRST PAGE
-
-We can for instance look at the evolution of the Front page Editorial and changes in coverage of certain regions and countries over time. <br> 
-
-#### COVERAGE VIEW AT REGIONAL LEVEL
-<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/f300b52e-ab39-46f9-bc7c-5c1e9d4ff1b5" /> <br>
-We can clearly see that as influence in Syria tamed, Editorial focus was put on to South Asian and Africa activities and operations. <br>
-<br>
-
-#### COVERAGE VIEW AT LOCAL/COUNTRY LEVEL
-<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/1e7aae13-7f51-4cc7-9192-6d2e4a96e6e0" />
-A more gradunar view allows us observe that few countries are propelling the trends: Afghanistan coverage explain the trends in South Asia overall, Egypt for North Africa. <br>
-We can see more specifically that coverage of Nigeria, Sahel and the Lake Chad Basin are increasingly gaining focus. <br> 
 <br>
 
 ### STEPS & LOGIC FLOW
