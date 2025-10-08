@@ -7,7 +7,8 @@ A project use CAMeL Named Entity Recognition tool in Arabic to map and plot the 
 
 The purpose of this project is to transform text in a foreign language to data through NLP and Machine Translation and to insights through Visualization:
 
-<img width="1864" height="1011" alt="image" src="https://github.com/user-attachments/assets/d77059e7-1005-42a7-b64a-a16335d72a72" />
+<img width="1266" height="688" alt="Image" src="https://github.com/user-attachments/assets/2b76e036-abf4-4e26-8745-ed2682257667" />
+
 
 <br>
 <br>
