@@ -44,11 +44,11 @@ Illustration of results at Regional/State level:
 <br>
 <br>
 ##### VIEW AT LOCAL COUNTY OR CITY LEVEL
-Illustration of results at Local/County level:
-<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/5152deb2-87e8-4bf3-853b-bbf143019ddb" />
-<br>
 Global View of local NER:
 <img width="1018" height="612" alt="County" src="https://github.com/user-attachments/assets/e836ad54-a7e8-4dc6-b8fd-345fe1315dfd" />
+<br>
+Close-up of results at Local, County or City level:
+<img width="1018" height="612" alt="image" src="https://github.com/user-attachments/assets/5152deb2-87e8-4bf3-853b-bbf143019ddb" />
 <br>
 <br>
 
