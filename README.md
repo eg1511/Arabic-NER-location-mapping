@@ -65,6 +65,11 @@ A more gradunar view allows us observe that few countries are propelling the tre
 We can see more specifically that coverage of Nigeria, Sahel and the Lake Chad Basin are increasingly gaining focus. <br> 
 <br>
 
+##### ANIMATED OVERVIEW AT COUNTRY LEVEL
+<img width="1018" height="612" alt="image" src="![anim-gif](https://github.com/user-attachments/assets/2c5c29ee-5f3c-4f50-ba32-48fa037eec94)" />
+A more interactive view allows us observe the trends on the map.<br>
+<br>
+
 -----
 
 ### LIBRARIES & IMPLEMENTAION STEPS
